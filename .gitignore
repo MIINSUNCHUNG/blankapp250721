@@ -1,3 +1,5 @@
+#git에서 무시할 파일이 무엇인지 적어두는 파일
+#github가 내 파일을 가져갈 때 api 키는 가져가지 못하게(공유하지 못하도록 하는 기능)
 .streamlit/secrets.toml
 
 # Byte-compiled / optimized / DLL files
